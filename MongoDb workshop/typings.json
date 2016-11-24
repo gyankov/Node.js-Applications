@@ -1,0 +1,7 @@
+{
+  "name": "mongodb",
+  "dependencies": {},
+  "globalDependencies": {
+    "mongoose": "registry:dt/mongoose#4.5.9+20161010180758"
+  }
+}
